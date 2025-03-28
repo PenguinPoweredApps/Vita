@@ -1,5 +1,5 @@
 
-# 🛠️ Vita – The Virtual Helpdesk GPT
+# 🛠️ Vita
 Vita is a custom GPT-powered virtual helpdesk assistant designed to streamline support tasks, answer questions, and guide users through technical or organizational processes with clarity and precision. Built for teams, clients, and solo professionals alike, Vita provides reliable, human-like support 24/7.
 
 
