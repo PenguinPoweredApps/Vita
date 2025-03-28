@@ -43,5 +43,5 @@ Works via secure API endpoints and can be deployed in scalable environments.
 
 - Reducing support load on human staff
   
-Try out [Vita The Virtual Helpdesk](https://chatgpt.com/g/g-67cc682fae7481919ac3fb076f06628d-vita)
+Try out [Vita The Virtual Helpdesk](https://chatgpt.com/g/g-67cc682fae7481919ac3fb076f06628d-vita) You will require a ChatGPT account and to be logged in.
 
